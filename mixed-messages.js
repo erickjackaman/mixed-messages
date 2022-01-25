@@ -11,8 +11,8 @@ var colours = ["red", "orange", "yellow", "green", "blue", "indigo", "violet"];
 //Array to store animals
 var animals = ["tiger", "bear", "pigeon", "peacock", "anaconda", "panda", "firefly"];
 
-//Random number generator between 0 and 7 
-var randomNumber = Math.floor(Math.random() * 8);
+//Random number generator between 0 and 6 
+var randomNumber = Math.floor(Math.random() * 7);
 
 var randomGreeting = greetings[randomNumber];
 var randomColour = colours[randomNumber];
