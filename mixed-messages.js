@@ -9,7 +9,7 @@ var greetings = ["hello", "bonjour", "greetings", "hola", "welcome", "hi", "hey 
 //Array to store colours
 var colours = ["red", "orange", "yellow", "green", "blue", "indigo", "violet"];
 //Array to store animals
-var animals = ["tiger", "bear", "rat", "pigeon", "peacock", "anaconda", "panda", "firefly"];
+var animals = ["tiger", "bear", "pigeon", "peacock", "anaconda", "panda", "firefly"];
 
 //Random number generator between 0 and 7 
 var randomNumber = Math.floor(Math.random() * 8);
