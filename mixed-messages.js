@@ -5,6 +5,7 @@
 // Additional comment test
 
 var greetings = ["hello", "bonjour", "greetings", "hola", "welcome", "hi", "hey there"];
-var colours = ["red", "orange", "yellow", "green", "blue", "indigo", "violet"];
+var colours = ["red", "orange", "yellow", "green", "blue", "indigo", "violet", "pink"];
 var animals = ["tiger", "bear", "rat", "pigeon", "peacock", "anaconda", "panda", "firefly"];
+
 
